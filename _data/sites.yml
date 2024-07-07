@@ -4038,6 +4038,11 @@
   size: 255
   last_checked: 2022-10-28
 
+  - domain: bysweb.io
+  url: https://bystron.github.io/
+  size: 4.41
+  last_checked: 2024-07-7
+
 - domain: zagura.one
   url: https://zagura.one
   size: 47.39
